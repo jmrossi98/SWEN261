@@ -1,0 +1,37 @@
+commit 0216d10e0b22ea260936f19697e6fdbd768f922c
+Author: kdl4u_000 <kil4911@g.rit.edu>
+Date:   Thu Sep 28 11:42:41 2017 -0400
+
+    King just checked in
+
+commit 18ba5f9860cd5721b870b25365469b1f1b1b80f3
+Author: Jake Rossi <jmr6558@rit.edu>
+Date:   Wed Sep 27 22:21:49 2017 -0400
+
+    Jake Rossi
+
+commit 976761d5ecadbc150501d241031268a71becd250
+Author: Jenna MacBeth <jom9916@g.rit.edu>
+Date:   Wed Sep 27 20:18:22 2017 -0400
+
+    Update README.md
+    
+    Jenna added name
+
+commit 368dfc2aee23613a882b2b4a0125d0041e8a0786
+Author: cdh6380 <cdh6380@rit.edu>
+Date:   Wed Sep 27 18:55:34 2017 -0400
+
+    Added name to README
+
+commit c59db8e1cad5c6b9c63097ac9c91a6502a528346
+Author: cdh6380 <cdh6380@rit.edu>
+Date:   Wed Sep 27 18:41:34 2017 -0400
+
+    Initial Commit
+
+commit 21246a7ef2c6fe04fa69a8d72428d38579ca9a47
+Author: cdh6380 <cdh6380@rit.edu>
+Date:   Wed Sep 27 16:17:21 2017 -0400
+
+    first commit
